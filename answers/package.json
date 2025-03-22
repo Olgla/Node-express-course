@@ -1,0 +1,12 @@
+{
+    "name": "NODE-EXPRESS-COURSE",
+    "version": "1.0.0",
+    "description": "OG's 1st Node project",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no tests specified\" && exit 1",
+        "start": "index.js"
+    },
+    "author": "OG",
+    "license": "ISC"
+}
